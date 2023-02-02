@@ -1,0 +1,1 @@
+.ec-banner{--C-Batcave:#232a31;--C-DirtySeagull:#e0e4e9;--C-Inkwell:#1d2228;--C-White:#ffffff;--ecbanner-bgc:var(--C-White);--ecbanner-bdc:var(--C-DirtySeagull)}@media (prefers-color-scheme:dark){.ec-banner{--ecbanner-bgc:var(--C-Batcave);--ecbanner-bdc:var(--C-Inkwell)}}
